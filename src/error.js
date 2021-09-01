@@ -1,4 +1,3 @@
-//From Github User Dragory - https://github.com/Dragory/
 const logger = require('../utils/logger'); //better console logging
 const nodeMajorVersion = parseInt(process.versions.node.split('.')[0, 10]); //get the node version
 
